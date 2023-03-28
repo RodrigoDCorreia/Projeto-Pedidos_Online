@@ -1,4 +1,4 @@
-# Projeto-Pedidos_Online
+# Foods end Drinks Delivery
    
 1-O que o projeto faz
 
@@ -34,7 +34,7 @@ O serviço de entrega pode ser gerenciado pela própria empresa responsável pel
 
 Avalie o serviço: Depois de receber o seu pedido, avalie o serviço fornecido pelo serviço de delivery. A maioria dos serviços permite que você deixe sua opinião e avaliação sobre a qualidade da comida e do serviço prestado, o que pode ajudar outros usuários a escolherem o melhor serviço.
 
-Funcionalidades do projeto 
+# Funcionalidades do projeto 
 
 Trello - https://trello.com/b/6GRmP4wo/atividades-projeto-pedidos-online
 
