@@ -1,14 +1,14 @@
 # Foods end Drinks Delivery
    
-1-O que o projeto faz
+<h4>1-O que o projeto faz</h4>
 
-O projeto "foods and drinks delivery" permite que os clientes façam pedidos online ou por telefone e recebam suas refeições ou bebidas no conforto de suas casas.
+- O projeto "foods and drinks delivery" permite que os clientes façam pedidos online ou por telefone e recebam suas refeições ou bebidas no conforto de suas casas.
 
-Esse tipo de projeto geralmente envolve uma plataforma online, como um site ou aplicativo, onde os clientes podem escolher o que desejam pedir de um menu, selecionar as opções de entrega e pagamento, e enviar seus pedidos.
+- Esse tipo de projeto geralmente envolve uma plataforma online, como um site ou aplicativo, onde os clientes podem escolher o que desejam pedir de um menu, selecionar as opções de entrega e pagamento, e enviar seus pedidos.
 
-O serviço de entrega pode ser gerenciado pela própria empresa responsável pelo projeto ou por parceiros de entregas, como motoboys ou empresas de entregas especializadas. O objetivo principal do projeto é proporcionar uma experiência conveniente e fácil para os clientes, permitindo-lhes desfrutar de alimentos e bebidas de qualidade sem sair de casa.
+- O serviço de entrega pode ser gerenciado pela própria empresa responsável pelo projeto ou por parceiros de entregas, como motoboys ou empresas de entregas especializadas. O objetivo principal do projeto é proporcionar uma experiência conveniente e fácil para os clientes, permitindo-lhes desfrutar de alimentos e bebidas de qualidade sem sair de casa.
 
-2- Por que o projeto é útil
+<h4>2- Por que o projeto é útil</h4>
 
 - Conveniência: Os clientes podem desfrutar de suas refeições e bebidas favoritas no conforto de suas casas ou locais de trabalho, sem precisar se deslocar para um restaurante ou loja física.
 
@@ -19,7 +19,7 @@ O serviço de entrega pode ser gerenciado pela própria empresa responsável pel
 - Aumento nas vendas: Para os restaurantes e lojas, a entrega de alimentos e bebidas pode aumentar as vendas, pois oferece uma opção adicional de atender aos clientes que preferem a comodidade de entrega em vez de visitar a loja física.
 
 
-3- Como os usuários podem começar a usar o projeto
+<h4>3- Como os usuários podem começar a usar o projeto</h4>
 
 
 - Faça o seu cadastro: Depois de acessar o site ou aplicativo, é necessário se cadastrar para ter uma conta no serviço. O processo de cadastro é geralmente fácil e rápido, basta seguir as instruções na tela e preencher as informações necessárias, como seu nome completo, endereço, telefone e e-mail.
