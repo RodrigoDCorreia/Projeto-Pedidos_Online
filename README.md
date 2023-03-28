@@ -34,12 +34,12 @@ O serviço de entrega pode ser gerenciado pela própria empresa responsável pel
 
 Avalie o serviço: Depois de receber o seu pedido, avalie o serviço fornecido pelo serviço de delivery. A maioria dos serviços permite que você deixe sua opinião e avaliação sobre a qualidade da comida e do serviço prestado, o que pode ajudar outros usuários a escolherem o melhor serviço.
 
-# Funcionalidades do projeto 
+ <h2>Funcionalidades do projeto </h2> 
 
-Trello - https://trello.com/b/6GRmP4wo/atividades-projeto-pedidos-online
+<h4>Trello</h4> - https://trello.com/b/6GRmP4wo/atividades-projeto-pedidos-online
 
-Feito no Balsamiq
-Para visualização
+<h4>Feito no Balsamiq
+Para visualização</h4>
    https://balsamiq.cloud/sj9v0uz/pgp1ein
 
 
